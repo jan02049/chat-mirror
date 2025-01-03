@@ -1,0 +1,8 @@
+{
+  "name": "discord-mirror",
+  "version": "1.0.0",
+  "main": "discordMirror.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.9.15"
+  }
+}

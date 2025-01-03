@@ -1,0 +1,26 @@
+{
+  "token": "INSERT_YOUR_TOKEN_HERE",
+  "status": "offline",
+  "mirrors": [
+    {
+      "channel_ids": [
+        "INSERT_CHANNEL_ID_HERE"
+      ],
+      "webhooks_urls": [
+        "INSERT_WEBHOOK_URL_HERE"
+      ]
+    }
+  ],
+  "mentions": {
+    "INSERT_SERVER_ID_HERE": [
+      {
+        "original": "INSERT_ORIGINAL_ID_HERE",
+        "replaced": "INSERT_REPLACED_ID_HERE"
+      }
+    ]
+  },
+  "mirrorAll": true,
+  "users": [
+    "INSERT_USER_ID_HERE"
+  ]
+}
